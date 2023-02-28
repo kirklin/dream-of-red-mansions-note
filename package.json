@@ -14,11 +14,11 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
-    "@kirklin/eslint-config": "^0.2.1",
-    "@types/node": "^18.11.18",
-    "eslint": "^8.31.0",
-    "pnpm": "^7.21.0",
-    "vitepress": "1.0.0-alpha.35",
-    "vue": "^3.2.45"
+    "@kirklin/eslint-config": "^0.2.6",
+    "@types/node": "^18.14.2",
+    "eslint": "^8.35.0",
+    "pnpm": "^7.28.0",
+    "vitepress": "1.0.0-alpha.48",
+    "vue": "^3.2.47"
   }
 }
